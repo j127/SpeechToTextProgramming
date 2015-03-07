@@ -3,8 +3,31 @@
 ## Software
 
 * Dragon NaturallySpeaking
-* Natlink
-* Dragonfly
+* [Natlink](http://sourceforge.net/projects/natlink/)
+* [Dragonfly](https://github.com/t4ngo/dragonfly)
+* [Vocola](http://vocola.net/)
+* [Unimacro](http://qh.antenna.nl/unimacro/index.html)
+
+### Steps
+
+1. Install Dragon NaturallySpeaking
+2. Install Python (ActiveState Python Community Edition 32 bit)
+3. Install wxPython (32 bit)
+4. Install Natlink
+5. Enable Natlink: `C:\NatLink\NatLink\confignatlinkvocolaunimacro> python.exe .\start_configurenatlink.py`
+6. Install Dragonfly
+7. Get a good mic
+
+### Resources
+
+* Instructions: http://handsfreecoding.org/?p=9 
+* http://dragonfly.readthedocs.org/en/latest/related_resources.html 
+* http://handsfreecoding.org/ and https://github.com/wolfmanstout/dragonfly-commands 
+* http://www.westga.edu/~drocco/voice/NatLink/ 
+* https://vimeo.com/9156942
+* http://showmedo.com/videotutorials/video?fromSeriesID=898&name=8980000
+* http://showmedo.com/videotutorials/video?fromSeriesID=984&name=9840000
+* https://github.com/dictation-toolbox
 
 ## Commands
 
