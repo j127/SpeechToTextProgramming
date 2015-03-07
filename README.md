@@ -19,6 +19,7 @@
 ## TODO
 
 * Figure out how to load Dragonfly macros from ~\Documents\Natlink in  Windows 8
+* Recognize letters with shorter Lojban pronunciations?
 
 ## Resources
 
@@ -44,3 +45,5 @@
 * cawfunk [coffee function] -- ->
 * hash -- #
 * esk -- ESC
+* open paren / close paren -- no spaces
+* open parenthesis / close parenthesis -- spaces
