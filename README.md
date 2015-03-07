@@ -1,4 +1,4 @@
-# Speech to Text Coding
+# Speech to Text Programming
 
 ## Software
 
@@ -22,6 +22,8 @@
 
 ## Resources
 
+### Speech to Text Coding
+
 * Instructions: http://handsfreecoding.org/?p=9
 * http://dragonfly.readthedocs.org/en/latest/related_resources.html
 * http://handsfreecoding.org/ and https://github.com/wolfmanstout/dragonfly-commands
@@ -30,6 +32,10 @@
 * http://showmedo.com/videotutorials/video?fromSeriesID=898&name=8980000
 * http://showmedo.com/videotutorials/video?fromSeriesID=984&name=9840000
 * https://github.com/dictation-toolbox
+
+## RSI
+
+* http://web.eecs.umich.edu/~cscott/rsi.html
 
 ## Commands
 
