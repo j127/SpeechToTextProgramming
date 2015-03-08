@@ -47,3 +47,9 @@
 * esk -- ESC
 * open paren / close paren -- no spaces
 * open parenthesis / close parenthesis -- spaces
+* blank paren -- ()
+* r concat -- c(
+* r square -- sqrt(
+* get wood -- getwd()
+* set wood -- setwd(
+
