@@ -41,8 +41,8 @@
 ## Commands
 
 * dunder-init -- __init__
-* rfunk [R function] -- <-
-* cawfunk [coffee function] -- ->
+* lass [left assign] -- <-
+* rass [right assign] -- ->
 * hash -- #
 * esk -- ESC
 * open paren / close paren -- no spaces
@@ -52,4 +52,6 @@
 * r square -- sqrt(
 * get wood -- getwd()
 * set wood -- setwd(
-
+* seek -- seq(
+* rep -- rep
+* num -- num
